@@ -1,0 +1,33 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6623188" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="TestNGSupport.sortTestsAlphabetically" value="true" />
+    <property name="TestNGSupport.sortTestsByDuration" value="true" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/IdeaProjects/untitled/untitled.iml&#10;C:/Program Files/Java/jdk1.8.0_221&#10;C:/Users/18327/IdeaProjects/Selenium&#10;C:/Users/18327/IdeaProjects/NATestAutoMaven&#10;C:/Documents and Settings&#10;C:/poi-4.1.0/ooxml-lib&#10;C:/Users/18327/IdeaProjects/New Test&#10;C:/Users/18327/IdeaProjects/NATEST&#10;C:/Users/18327/.IdeaIC2019.2/NewBootCamp&#10;C:/Users/18327/IdeaProjects/QABootCamp&#10;C:/Users/18327/IdeaProjects/NewBootCamp&#10;C:/Users/18327/IdeaProjects/BootCampJava&#10;C:/Users/18327/Downloads/operadriver_win64&#10;C:/Users/18327/IdeaProjects/NAAutomation&#10;C:/Users/18327/IdeaProjects/New&#10;C:/Users/18327/IdeaProjects/new_project&#10;C:/Users/18327/IdeaProjects/NewBootCamp/NewBootCamp.iml&#10;C:/Users/18327/IdeaProjects/NewBootCamp/src&#10;C:/Users/18327/My Documents&#10;C:/Users/18327/Downloads&#10;C:/Users/18327/.IdeaIC2019.2/NewBootCamp/src/creatingclasses" />
+    <property name="file.gist.reindex.count" value="330" />
+    <property name="fileTypeChangedCounter" value="84" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.41-release-IJ2019.2-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.41-release-IJ2019.2-1:2019-07-03" />
+    <property name="lastTip" value="81" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1571790928066" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

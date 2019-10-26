@@ -1,0 +1,49 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="264" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="961" y="445" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="588" y="295" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="686" y="209" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="326" y="0" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="718" y="131" />
+    <location key="svn.repositoryBrowser.0.0.1920.1080@120dpi" x="749" y="258" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080@120dpi" x="624" y="203" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080@120dpi" x="121" y="0" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080@120dpi" x="624" y="213" />
+    <location key="run.anything.popup.0.0.1920.1080@120dpi" x="531" y="234" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@120dpi" x="714" y="379" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="451" y="91" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="546" y="5" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="556" y="173" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080@120dpi" x="680" y="390" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1920.1080@120dpi" x="714" y="269" />
+    <location key="Github.ShareDialog.0.0.1920.1080@120dpi" x="780" y="401" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1920.1080@120dpi" x="624" y="245" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080@120dpi" x="596" y="48" />
+    <location key="Maven.ArtifactSearchDialog.0.0.1920.1080@120dpi" x="374" y="88" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@120dpi" x="633" y="278" />
+    <location key="#Console.0.0.1920.1080@120dpi" x="451" y="91" />
+    <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="624" y="426" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080@120dpi" x="549" y="53" />
+    <location key="RollbackChangesDialog.0.0.1920.1080@120dpi" x="695" y="149" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080@120dpi" x="675" y="195" />
+    <location key="#Intentions.0.0.1920.1080@120dpi" x="451" y="91" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1867" height="3" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1867" height="3" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1867" height="3" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1867" height="3" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@120dpi" width="492" height="279" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1889" height="269" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1889" height="269" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1889" height="269" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1889" height="269" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1867" height="3" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1867" height="3" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1867" height="3" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1867" height="3" />
+    <size key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" width="865" height="685" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080@120dpi" width="738" height="740" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1080@120dpi" width="1007" height="925" />
+    <size key="#Intentions.0.0.1920.1080@120dpi" width="1018" height="922" />
+  </component>
+</application>
