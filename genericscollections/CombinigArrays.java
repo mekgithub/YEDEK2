@@ -1,0 +1,28 @@
+package genericscollections;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+class CombiningArrays {
+    public static void  combineArrays(ArrayList<Integer> arr1,ArrayList<Integer> arr2){
+        ArrayList<Integer> arr = new ArrayList<>();
+        int counter=0;
+        for(int i=0 ; i<arr1.size()+arr2.size() ; i++){
+            if(i<arr1.size()){
+                arr.add(arr1.get(i));
+            }
+
+            else{
+                arr.add(arr2.get(counter));
+                counter++;
+            }
+        }
+        System.out.println(arr);
+    }
+
+    public static void main(String[] args) {
+        ArrayList<Integer> arr1 = new ArrayList<Integer>(Arrays.asList(1,2,3,4,5));
+        ArrayList<Integer> arr2 = new ArrayList<Integer>(Arrays.asList(6,7,8,9,10));
+        combineArrays(arr1,arr2);
+    }
+}
